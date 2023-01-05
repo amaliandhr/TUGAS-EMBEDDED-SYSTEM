@@ -77,4 +77,14 @@ Di setup(), inisialisasi Serial Monitor.
 Atur perangkat sebagai stasiun wi-fi dan insialisasi ESP-NOW. Untuk fungsi panggilan balik yang akan dipanggil saat data diterima menggunakan fungsi OnDataRecv().
  
 ## Hasil Praktikum
+### A. Memperoleh MAC Address ESP32 Receiver
+
+
+https://user-images.githubusercontent.com/118653054/210823720-37b9d18f-216e-44fd-934e-214bbc7c5906.mp4
+
+### B. ESP-NOW One-Way Point-to-Point Communication
+
+
+https://user-images.githubusercontent.com/118653054/210823885-b21d6501-e05a-4528-975e-0726815f087d.mp4
+
 
