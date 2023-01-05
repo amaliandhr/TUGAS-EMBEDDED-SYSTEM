@@ -87,4 +87,17 @@ https://user-images.githubusercontent.com/118653054/210823720-37b9d18f-216e-44fd
 
 https://user-images.githubusercontent.com/118653054/210823885-b21d6501-e05a-4528-975e-0726815f087d.mp4
 
+### C. One-Way, One-to-Many Communication
 
+
+https://user-images.githubusercontent.com/118653054/210824197-5e11f33d-359e-4ee1-b15a-7c6382351d22.mp4
+
+
+
+https://user-images.githubusercontent.com/118653054/210824258-60fe7758-e7bf-451c-8d7b-506f993445fb.mp4
+
+
+
+https://user-images.githubusercontent.com/118653054/210824381-acdfd815-6fe5-4165-b381-c832eca6bd61.mp4
+
+### D. One-Way, Many-to-One Communication
