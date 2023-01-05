@@ -1,21 +1,7 @@
 #  JARINGAN SENSOR NIRKABEL MENGGUNAKAN ESP-NOW
 ## 2-B-Sender
-Pada baris kode library esp_now.h dan WiFi.h. untuk menghubungkan perangkat keras ESP32 dengan jaringan wifi.
-include <esp_now.h>
-include <WiFi.h>
-
-Baris selanjutnya, harus memasukan alamat MAC penerima ESP32
-// Ganti dengan Mac Address ESP32 Receiver
-uint8_t broadcastAddress[] = {0x94, 0xB5, 0x55, 0x2C, 0x47, 0xB4};
-
-Pada praktikum ini, alamat MAC pengirim adalah : 94 : B5 : 55 : 2C : 47 : B4. Buat struktur yang berisis tipe data yang ingin kita kirim dapat disebut dengan struct_message. Dalam struct_message ini berisi 4 jenis variable yang berbeda.
-// Struktur pesan sender dan receiver harus sama
-typedef struct struct_message {
- char a[32];
- int b;
- float c;
- bool d;
-} struct_message;
+Pada baris kode library esp_now.h dan WiFi.h. untuk menghubungkan perangkat keras ESP32 dengan jaringan wifi. Baris selanjutnya, harus memasukan alamat MAC penerima ESP32.Pada praktikum ini, alamat MAC pengirim adalah : 94 : B5 : 55 : 2C : 47 : B4. Buat struktur yang berisis tipe data yang ingin kita kirim dapat disebut dengan struct_message. Dalam struct_message ini berisi 4 jenis variable yang berbeda.
+![image](https://user-images.githubusercontent.com/118653054/210794459-b9ed67ae-ab79-48de-89a6-500ba0307402.png)
 
 Kemudian untuk membuat variable baru dengan tipe struct_message yang dapat disebut engan myData yang akan menyimpan nilai variable. Untuk variable tipe esp_now_peer_info_t berfungsi untuk menyimpan informasi tentang rekan.
 // Driver untuk struktur pesan
