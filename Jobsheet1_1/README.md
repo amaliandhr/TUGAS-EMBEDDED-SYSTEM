@@ -1,8 +1,8 @@
 #  JARINGAN SENSOR NIRKABEL MENGGUNAKAN ESP-NOW
 ## 2-B-Sender
 Pada baris kode library esp_now.h dan WiFi.h. untuk menghubungkan perangkat keras ESP32 dengan jaringan wifi.
-#include <esp_now.h>
-#include <WiFi.h>
+include <esp_now.h>
+include <WiFi.h>
 
 Baris selanjutnya, harus memasukan alamat MAC penerima ESP32
 // Ganti dengan Mac Address ESP32 Receiver
