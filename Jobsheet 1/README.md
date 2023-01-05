@@ -1,3 +1,4 @@
+
 # DASAR PEMROGRAMAN ESP32 UNTUK PEMROSESAN DATA INPUT/OUTPUT ANALOG DAN DIGITAL
 ## GPIO
 Pada dua baris kode ini akan membuat variable untuk menetapkan pin.
@@ -10,6 +11,8 @@ Serial.begin
 Paada loop() berfungsi apabila (buttonState==HIGH) berarti push button saat ditekan, LeD akan menyala dengan fungsi digital Write() yang dapat diset HIGH. Namun, apabila (buttonState==LOW) maka pushbutton todak ditekan dan LED tidak menyala karena digitalWrite() diset LOW.
 Void loop() {
 //
+## Hasil Praktimum
+
 ## Kesimpulan
 Pada praktikum ini dapat disimpulkan bahwa push button dapat digunakan untuk mengendalikan LED. Pin-pin yang akan digunakan dapat disesuaikan dengan input output serta keluaran yang diinginkan pada LEDnya. 
 PWM
