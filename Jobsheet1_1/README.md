@@ -63,3 +63,18 @@ sizeof(myData));
  }
  delay(2000);
  }
+## Receiver
+Pada baris kode library esp_now.h dan WiFi.h. untuk menghubungkan perangkat keras ESP32 dengan jaringan wifi.
+ 
+Buat struktur yang berisis tipe data yang ingin kita kirim dapat disebut dengan struct_message. Dalam struct_message ini berisi 4 jenis variable yang berbeda. 
+ 
+Fungsi callback yang akan dipanggil saat ESP32 menerima data melalui ESP-NOW. Fungsi ii disebut dengan onDataRecv() dan harus menerima beberapa parameter.
+ 
+Struktur myData berisi beberapa variable di dalamnya dengan nilai yang dikirimkan oleh pengirim ESP32. Untuk mengaksesnya variable kita perlu memanggil myData.
+ 
+Di setup(), inisialisasi Serial Monitor.
+ 
+Atur perangkat sebagai stasiun wi-fi dan insialisasi ESP-NOW. Untuk fungsi panggilan balik yang akan dipanggil saat data diterima menggunakan fungsi OnDataRecv().
+ 
+## Hasil Praktikum
+
