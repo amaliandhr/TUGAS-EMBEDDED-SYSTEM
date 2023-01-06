@@ -101,3 +101,21 @@ https://user-images.githubusercontent.com/118653054/210824258-60fe7758-e7bf-451c
 https://user-images.githubusercontent.com/118653054/210824381-acdfd815-6fe5-4165-b381-c832eca6bd61.mp4
 
 ### D. One-Way, Many-to-One Communication
+
+
+https://user-images.githubusercontent.com/118653054/210911431-4002bb82-66d6-4ca0-a4e6-3c64c4870f40.mp4
+
+
+### E. Two-Way Communication
+
+
+https://user-images.githubusercontent.com/118653054/210911809-fe06c87b-53a8-4c58-a824-dd5cbde40abe.mp4
+
+
+
+https://user-images.githubusercontent.com/118653054/210911831-ceaf87ad-ab64-432e-a7b0-a48e689f91f1.mp4
+
+
+
+
+
