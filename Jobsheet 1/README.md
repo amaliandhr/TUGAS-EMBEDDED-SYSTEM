@@ -12,6 +12,65 @@ Paada loop() berfungsi apabila (buttonState==HIGH) berarti push button saat dite
 Void loop() {
 //
 ## Hasil Praktimum
+### A. GPIO
+#### LED 1
+
+https://user-images.githubusercontent.com/118653054/210912883-6a37a2f0-07b3-4bc3-a916-988478a02f86.mp4
+
+#### LED 2 
+
+
+https://user-images.githubusercontent.com/118653054/210914742-a12daf49-2f54-4e56-8f0e-b51b4143683e.mp4
+
+#### LED 5
+
+
+
+https://user-images.githubusercontent.com/118653054/210914758-61538e8b-df3b-4909-b09c-f6379c0d3d9f.mp4
+
+
+#### BLINK
+
+
+https://user-images.githubusercontent.com/118653054/210913553-200d44df-4c00-4bec-ab16-7a4e4d288b79.mp4
+
+
+
+https://user-images.githubusercontent.com/118653054/210913562-3a45d675-5d53-468c-bd84-9514246f9429.mp4
+
+
+
+https://user-images.githubusercontent.com/118653054/210913574-618e5f47-bab1-47f2-a179-4e34deeaeec9.mp4
+
+
+
+https://user-images.githubusercontent.com/118653054/210913581-eb469b2f-7619-4359-8897-8928f4700593.mp4
+
+
+
+### B. PWM
+#### PWM 1
+
+
+https://user-images.githubusercontent.com/118653054/210915800-1e548b55-407e-4162-9191-29e25e700b48.mp4
+
+#### PWM 2
+
+
+https://user-images.githubusercontent.com/118653054/210915816-62ea0eff-31ac-4a42-b081-6ed60031ee5b.mp4
+
+
+### C. ADC dan DAC
+#### ADC DAC 1
+
+
+https://user-images.githubusercontent.com/118653054/210915910-a69ae683-7b15-4c5a-b17e-983b21fa6068.mp4
+
+#### ADC DAC 2
+
+
+https://user-images.githubusercontent.com/118653054/210915995-3bdc7875-09a7-4a85-bf83-0e98bddc0df8.mp4
+
 
 ## Kesimpulan
 Pada praktikum ini dapat disimpulkan bahwa push button dapat digunakan untuk mengendalikan LED. Pin-pin yang akan digunakan dapat disesuaikan dengan input output serta keluaran yang diinginkan pada LEDnya. 
